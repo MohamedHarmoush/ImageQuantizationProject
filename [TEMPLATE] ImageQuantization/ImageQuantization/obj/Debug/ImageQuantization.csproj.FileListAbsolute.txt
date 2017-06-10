@@ -1,0 +1,43 @@
+D:\Islamic\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Debug\ImageQuantization.exe.config
+D:\Islamic\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Debug\ImageQuantization.exe
+D:\Islamic\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Debug\ImageQuantization.pdb
+D:\Islamic\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Debug\C5.dll
+D:\Islamic\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Islamic\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Debug\EntityFramework.dll
+D:\Islamic\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Debug\EntityFramework.SqlServer.dll
+D:\Islamic\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Debug\metroframework.dll
+D:\Islamic\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Debug\Newtonsoft.Json.dll
+D:\Islamic\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Debug\C5.pdb
+D:\Islamic\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Debug\C5.xml
+D:\Islamic\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Debug\DevComponents.DotNetBar2.xml
+D:\Islamic\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Debug\EntityFramework.xml
+D:\Islamic\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Debug\EntityFramework.SqlServer.xml
+D:\Islamic\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Debug\Newtonsoft.Json.xml
+D:\Islamic\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.csprojResolveAssemblyReference.cache
+D:\Islamic\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+D:\Islamic\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+D:\Islamic\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.csproj.GenerateResource.Cache
+D:\Islamic\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.exe
+D:\Islamic\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.pdb
+H:\FCIS\Year 3\Semester 1\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Debug\ImageQuantization.exe.config
+H:\FCIS\Year 3\Semester 1\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.exe
+H:\FCIS\Year 3\Semester 1\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.pdb
+H:\FCIS\Year 3\Semester 1\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Debug\ImageQuantization.exe
+H:\FCIS\Year 3\Semester 1\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Debug\ImageQuantization.pdb
+H:\FCIS\Year 3\Semester 1\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Debug\C5.dll
+H:\FCIS\Year 3\Semester 1\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Debug\EntityFramework.dll
+H:\FCIS\Year 3\Semester 1\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Debug\EntityFramework.SqlServer.dll
+H:\FCIS\Year 3\Semester 1\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Debug\Newtonsoft.Json.dll
+H:\FCIS\Year 3\Semester 1\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Debug\C5.pdb
+H:\FCIS\Year 3\Semester 1\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Debug\C5.xml
+H:\FCIS\Year 3\Semester 1\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Debug\DevComponents.DotNetBar2.xml
+H:\FCIS\Year 3\Semester 1\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Debug\EntityFramework.xml
+H:\FCIS\Year 3\Semester 1\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Debug\EntityFramework.SqlServer.xml
+H:\FCIS\Year 3\Semester 1\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Debug\Newtonsoft.Json.xml
+H:\FCIS\Year 3\Semester 1\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.csprojResolveAssemblyReference.cache
+H:\FCIS\Year 3\Semester 1\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+H:\FCIS\Year 3\Semester 1\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+H:\FCIS\Year 3\Semester 1\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.csproj.GenerateResource.Cache
+D:\College's Projects\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Debug\ImageQuantization.exe.config
+D:\College's Projects\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.exe
+D:\College's Projects\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.pdb
